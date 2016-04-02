@@ -2,7 +2,6 @@
 title: "Reproducible Research Course Project 1"
 author: "Courtney Mitchell"
 date: "April 2, 2016"
-output: html_document
 ---
 ###Intro
 
